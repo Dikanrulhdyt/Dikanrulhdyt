@@ -1,59 +1,39 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**Dikanrulhdyt/Dikanrulhdyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- HEADER ANIMATION -->
 <h1 align="center">Hi 👋, I'm Dika Nurul Hidayat</h1>
-<h3 align="center">🚀 Backend Developer | Informatics Student | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend & API Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;REST+API+Specialist;Database+Enthusiast;AI+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Full+Stack+Developer;REST+API+Specialist;AI+%26+Data+Explorer&center=true&width=500&height=45&color=36BCF7&vCenter=true">
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Informatics Student (Semester 5)
-- 💻 Focused on **Backend Development & Database**
-- ⚙️ Experienced in building **REST APIs & System Integration**
-- 🤖 Interested in **Artificial Intelligence & ERP Systems**
-- 🚀 Currently improving **scalable system architecture**
+- 🎓 Final-year Informatics student at STMIK DCI Tasikmalaya (GPA: 3.54)
+- 💻 Passionate about building **robust backend systems** and **interactive frontends**
+- ⚙️ Experienced in bridging the gap between **REST APIs, Databases, and UI**
+- 🤖 Deeply interested in **Machine Learning integration** and **System Architecture**
+- 🎯 Constantly writing clean, maintainable, and well-documented code.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend & Programming
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,python,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,python" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,figma,tailwind" />
 </p>
 
-### 🌐 Frontend & Tools
+### 🤖 Others & Soft Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,jquery,git,github,vscode" />
-</p>
-
-### 🤖 Others
-<p>
-  <img src="https://img.shields.io/badge/AI-Basic-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/System%20Analysis-Intermediate-green?style=for-the-badge" />
 </p>
 
@@ -61,49 +41,44 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikanrulhdyt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikanrulhdyt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dikanrulhdyt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikanrulhdyt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dikanrulhdyt&theme=tokyonight&hide_border=true" />
-</p>
+## 🧩 What I've Been Building
+
+**📈 IPO Success Prediction System** *(Python, Node.js, React)*
+> An end-to-end machine learning web app predicting IPO success based on underwriter metrics. Features a modular architecture connecting a Python ML service, Node.js backend, and React frontend.
+
+**🏥 Hospital Management System** *(Laravel, MySQL)*
+> A comprehensive system managing patient data, schedules, and inventory. Led a team of 10 developers, focusing on agile project management (Scrum) and system design (ERD, DFD).
+
+**💳 E-Tracking KPI Dashboard** *(Laravel, REST API)*
+> Built during my MSIB internship. A role-based admin dashboard for monitoring employee performance, complete with Business Intelligence visualizations and automated email notifications.
 
 ---
 
-## 🧩 Featured Projects
-🚀 **Online Voting System**  
-> Secure digital voting system (RPL Project)
-
-🏥 **Hospital Management System**  
-> Manage patient, admin, and medical data
-
-💰 **REST API Financial System**  
-> Register, login, transfer, top-up, reporting
+## 🎯 Currently Exploring
+- 🚀 **Advanced System Design:** Learning how to build scalable, high-availability architectures.
+- 🐳 **DevOps Fundamentals:** Dockerizing applications and exploring CI/CD pipelines.
+- 🌐 **Open Source:** Looking to contribute to open-source PHP/JS communities.
 
 ---
 
-## 🎯 Current Goals
-- 🚀 Become Professional Backend Developer
-- 📈 Master System Design & Scalability
-- 💼 Start Freelance Career
-- 🌐 Build Impactful Projects
+## 📫 Let's Connect!
+I'm always open to discussing system architecture, backend engineering, or collaboration opportunities.
 
----
-
-## 📫 Connect With Me
 <p>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:dika.hidayatnurul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dika.hidayatnurul@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/dika-nurul-hidayat">
+    <img src="https://img.shields.io/badge/LinkedIn-Dika_Nurul_Hidayat-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web"/>
+  <a href="https://dikanurul.space">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=web"/>
   </a>
 </p>
 
@@ -117,4 +92,4 @@ Here are some ideas to get you started:
 ---
 
 ## ⚡ Fun Fact
-> 💡 I love building systems, optimizing workflows, and turning ideas into real applications 🚀
+> 💡 When I'm not coding, you can find me exploring new tech trends, reading tech blogs, or participating in hackathons. I believe the best way to learn is by building and failing forward! 🚀
