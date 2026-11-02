@@ -63,15 +63,52 @@ integration
 
 ---
 
+## 🧭 How I Build
+ 
+1. **Data first.** I sketch the ERD before writing endpoints, because a clear model saves a lot of rewriting.
+2. **Document as I go.** Each project gets a README with setup steps, an endpoint list, and a diagram.
+3. **Treat input as hostile.** Validate everything, hash secrets, and give each role only the access it needs.
+4. **Test the unhappy path.** A good API answers `401`, `403`, `404`, and `422` just as clearly as `200`.
+5. **Small commits, clear messages.** The history should tell the story of the project.
+A typical request flow in my API projects:
+ 
+```mermaid
+flowchart LR
+  A[Client] --> B[Route]
+  B --> C{Auth and role check}
+  C -- denied --> H[401 / 403]
+  C -- allowed --> D[Controller]
+  D --> E{Validation}
+  E -- invalid --> I[422]
+  E -- valid --> F[Service layer]
+  F --> G[(MySQL)]
+  G --> J[JSON response]
+```
+ 
+---
+ 
 ## 🧩 Featured Projects
-🚀 **Online Voting System**  
-> Secure digital voting system (RPL Project)
-
-🏥 **Hospital Management System**  
-> Manage patient, admin, and medical data
-
-💰 **REST API Financial System**  
-> Register, login, transfer, top-up, reporting
+ 
+| Project | What it explores | Stack / Focus |
+|---|---|---|
+| 💰 **REST API Financial System** | Register, login, transfer, top-up, and reporting endpoints | Authentication · transactions · reporting |
+| 🤖 **Focusflow AI** | A productivity app where an LLM helps prioritise tasks | NestJS · TypeScript · React · Gemini API |
+| 🛒 **Purchasing Order App** | Role-based access, social login, 2FA, online payment, dynamic reports | Laravel · MySQL · Midtrans · Chart.js |
+| 📈 **IPO Prediction** | Serving a machine-learning model to a web app through an API | Python · Node.js · React |
+| 🥋 **Pencak Silat Management App** | Training and participant administration, built with a team | Laravel · UAT · blackbox testing |
+| 🏥 **Hospital Management System** | Patient, doctor schedule, and inventory data across several roles | System analysis · ERD · DFD |
+| 🚀 **Online Voting System** | Turning voting rules into a secure, auditable flow | System analysis · flowmap · ERD |
+ 
+> 📌 Pinned repositories show the code. This table is the short story behind each one.
+ 
+---
+ 
+## 🌱 Currently Levelling Up
+- ✅ Automated testing for APIs (unit and feature tests)
+- 📘 API documentation with OpenAPI / Swagger
+- 🐳 Docker basics and deploying a small app end to end
+- 🔐 Security fundamentals: OWASP Top 10, token handling, rate limiting
+- 🧱 System design: caching, queues, and scaling basics
 
 ---
 
