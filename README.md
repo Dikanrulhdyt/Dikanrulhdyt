@@ -1,109 +1,101 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**Dikanrulhdyt/Dikanrulhdyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- HEADER ANIMATION -->
 <h1 align="center">Hi 👋, I'm Dika Nurul Hidayat</h1>
-<h3 align="center">🚀 Backend Developer | Informatics Student | Tech Enthusiast</h3>
+<h3 align="center">🚀 Fullstack Developer | Backend Developer | System Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;REST+API+Specialist;Database+Enthusiast;AI+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Backend+Developer;System+Analyst;Data+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Informatics Student (Semester 5)
-- 💻 Focused on **Backend Development & Database**
-- ⚙️ Experienced in building **REST APIs & System Integration**
-- 🤖 Interested in **Artificial Intelligence & ERP Systems**
-- 🚀 Currently improving **scalable system architecture**
+- 🎓 Informatics Engineering Student at STMIK DCI Tasikmalaya
+- 💻 Focused on **Fullstack Web Development & System Analysis**
+- 🏢 Currently doing an **Internship as Backend Developer at PT Linkdataku**
+- 💼 Also running a **Digital Services Business Owner**
+- 🚀 Experienced in building **REST APIs, Web Apps, & Database Management**
+- 📊 Interested in **Data Analysis, Business Intelligence, & CRM Systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend & Programming
+### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,python,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css" />
 </p>
 
-### 🗄️ Database
+### ⚙️ Backend & Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python" />
 </p>
 
-### 🌐 Frontend & Tools
+### 🗄️ Database & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,jquery,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
-### 🤖 Others
+### 🛠️ Tools & Design
 <p>
-  <img src="https://img.shields.io/badge/AI-Basic-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Analysis-Intermediate-green?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikanrulhdyt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikanrulhdyt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dikanrulhdyt&show_icons=true&theme=tokyonight&hide_border=true" alt="Dika's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikanrulhdyt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dikanrulhdyt&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Dikanrulhdyt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🧩 Featured Projects
-🚀 **Online Voting System**  
-> Secure digital voting system (RPL Project)
+📈 **e-Tracking KPI Dashboard**  
+> Dashboard monitoring KPI, aktivitas, pelaporan, dan notifikasi organisasi (Laravel, MySQL).
+
+🤖 **Aplikasi Prediksi IPO**  
+> Platform analisis saham IPO dengan prediksi berbasis Machine Learning (Python).
 
 🏥 **Hospital Management System**  
-> Manage patient, admin, and medical data
+> Sistem pengelolaan pasien, dokter, obat, dan laporan rumah sakit (Laravel, REST API).
 
-💰 **REST API Financial System**  
-> Register, login, transfer, top-up, reporting
+💰 **Platform Manajemen Keuangan Pribadi**  
+> Platform pengelolaan transaksi, aset, dan anggaran keuangan (React, NestJS, TypeScript).
 
 ---
 
 ## 🎯 Current Goals
-- 🚀 Become Professional Backend Developer
+- 🚀 Become Professional Fullstack Developer
 - 📈 Master System Design & Scalability
-- 💼 Start Freelance Career
-- 🌐 Build Impactful Projects
+- 💼 Expand Digital Services Business
+- 🌐 Build Impactful Projects (CRM / ERP)
 
 ---
 
 ## 📫 Connect With Me
 <p>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:nhidayatdika01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nhidayatdika01@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/dika-nurul-hidayat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dika_Nurul_Hidayat-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web"/>
+  <a href="https://dikanrulhdyt.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=web"/>
   </a>
 </p>
 
@@ -111,7 +103,7 @@ Here are some ideas to get you started:
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dikanrulhdyt/Dikanrulhdyt/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Dikanrulhdyt/Dikanrulhdyt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
