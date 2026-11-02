@@ -1,128 +1,82 @@
-<!-- HEADER ANIMATION -->
-<h1 align="center">Hi 👋, I'm Dika Nurul Hidayat</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend & API Enthusiast</h3>
+<!-- HEADER ANIMATION --> <h1 align="center">Hi 👋, I'm Dika Nurul Hidayat</h1> <h3 align="center">🚀 Backend Developer | Informatics Graduate | Tech Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;REST+API+Builder;Laravel+%C2%B7+NestJS+%C2%B7+React;Database+Enthusiast;AI+Explorer;Open+to+Internship+Opportunities&center=true&width=500&height=45" alt="typing animation" /> </p> <p align="center"> <a href="mailto:nhidayatdika01@gmail.com"><img src="https://img.shields.io/badge/Email-nhidayatdika01%40gmail.com-D14836?style=for-the-badge" alt="Email"/></a> <a href="https://linkedin.com/in/dikanurulhidayat"><img src="https://img.shields.io/badge/LinkedIn-dikanurulhidayat-0A66C2?style=for-the-badge" alt="LinkedIn"/></a> <a href="https://dikanurul.space"><img src="https://img.shields.io/badge/Portfolio-dikanurul.space-111111?style=for-the-badge" alt="Portfolio"/></a> </p>
+🧠 About Me
+🎓 Informatics graduate (S1, 2026) based in Tasikmalaya, Indonesia
+💻 Focused on Backend Development & Database
+⚙️ Experienced in building REST APIs & System Integration
+🔐 Comfortable with authentication & authorization (OAuth, 2FA, role-based access)
+💳 Have integrated payment gateway and AI (LLM) APIs into real applications
+🤖 Interested in Artificial Intelligence & ERP Systems
+🧭 Open to 6-month internship / junior roles in Backend or Full-Stack engineering
+🚀 Currently improving scalable system architecture
+💬 Ask me about: REST endpoint design, auth flows, system analysis (ERD, DFD), payment and LLM API integration
+🛠️ Tech Stack
+💻 Backend & Programming
+<p> <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,nestjs,python" alt="backend stack" /> </p>
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mysql" alt="database" /> </p>
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,jquery" alt="frontend stack" /> </p>
+🧰 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" alt="tools" /> </p>
+🤖 Others
+<p> <img src="https://img.shields.io/badge/AI-Basic-blue?style=for-the-badge" alt="AI Basic" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple?style=for-the-badge" alt="Prompt Engineering" /> <img src="https://img.shields.io/badge/System%20Analysis-Intermediate-green?style=for-the-badge" alt="System Analysis" /> <img src="https://img.shields.io/badge/API%20Design-REST-orange?style=for-the-badge" alt="API Design" /> </p>
+🧭 How I Build
+Data first. I sketch the ERD before writing endpoints, because a clear model saves a lot of rewriting.
+Document as I go. Each project gets a README with setup steps, an endpoint list, and a diagram.
+Treat input as hostile. Validate everything, hash secrets, and give each role only the access it needs.
+Test the unhappy path. A good API answers 401, 403, 404, and 422 just as clearly as 200.
+Small commits, clear messages. The history should tell the story of the project.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Full+Stack+Developer;REST+API+Specialist;AI+%26+Data+Explorer&center=true&width=500&height=45&color=36BCF7&vCenter=true">
-</p>
+A typical request flow in my API projects:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dikanrulhdyt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+denied
+allowed
+invalid
+valid
+Client
+Route
+Auth and role check
+401 / 403
+Controller
+Validation
+422
+Service layer
+MySQL
+JSON response
+🧩 Featured Projects
+Project	What it explores	Stack / Focus
+💰 REST API Financial System	Register, login, transfer, top-up, and reporting endpoints	Authentication · transactions · reporting
+🤖 Focusflow AI	A productivity app where an LLM helps prioritise tasks	NestJS · TypeScript · React · Gemini API
+🛒 Purchasing Order App	Role-based access, social login, 2FA, online payment, dynamic reports	Laravel · MySQL · Midtrans · Chart.js
+📈 IPO Prediction	Serving a machine-learning model to a web app through an API	Python · Node.js · React
+🥋 Pencak Silat Management App	Training and participant administration, built with a team	Laravel · UAT · blackbox testing
+🏥 Hospital Management System	Patient, doctor schedule, and inventory data across several roles	System analysis · ERD · DFD
+🚀 Online Voting System	Turning voting rules into a secure, auditable flow	System analysis · flowmap · ERD
 
----
+📌 Pinned repositories show the code. This table is the short story behind each one.
 
-## 🧠 About Me
-- 🎓 Final-year Informatics Student at STMIK DCI Tasikmalaya (GPA: 3.54)
-- 💻 Focused on **Full Stack Development**, bridging Frontend & Backend.
-- ⚙️ Experienced in building **REST APIs, System Integration, & Database Design**.
-- 🤖 Interested in integrating **Artificial Intelligence & Machine Learning** into web apps.
-- 🌱 Continuously learning **System Architecture, Scalability, & Clean Code**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,python" />
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,figma,tailwind,postman" />
-</p>
-
-### 🤖 Others & Soft Skills
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Analysis-Intermediate-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile%20Scrum-Advanced-orange?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikanrulhdyt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikanrulhdyt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dikanrulhdyt&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📈 IPO Success Prediction App</h3>
-      <p><b>Tech:</b> Python, Node.js, React, MySQL</p>
-      <p>End-to-end ML web app predicting IPO success. Built a modular architecture integrating a Python ML Service, Node.js REST API, and React frontend.</p>
-    </td>
-    <td width="50%">
-      <h3>💳 E-Tracking KPI Dashboard</h3>
-      <p><b>Tech:</b> Laravel, MySQL, Bootstrap, Jira</p>
-      <p>Role-based admin dashboard for employee performance monitoring. Features Business Intelligence analytics, automated emails, and API integration.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏥 Hospital Management System</h3>
-      <p><b>Tech:</b> Laravel, MySQL</p>
-      <p>Led a 10-person team to build a comprehensive system for patient data, doctor schedules, and inventory using Agile/Scrum methodology.</p>
-    </td>
-    <td width="50%">
-      <h3>💰 REST API Financial System</h3>
-      <p><b>Tech:</b> Lumen, MySQL, Postman</p>
-      <p>Secure backend service handling user authentication (OAuth, 2FA), transactions, and automated reporting with robust validation.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Current Goals & Focus
-- 🚀 **System Design:** Mastering how to build scalable and high-availability architectures.
-- 🐳 **DevOps Fundamentals:** Exploring Docker and CI/CD pipelines to streamline deployment.
-- 💼 **Open Source:** Actively looking to contribute to PHP and JavaScript open-source communities.
-- 🌐 **Impactful Projects:** Building solutions that solve real-world problems.
-
----
-
-## 💡 Development Philosophy
-> *"Code is not just about making it work; it's about making it maintainable, scalable, and easy for the next developer to understand. I believe in writing clean code, documenting the process, and continuously learning from every bug fixed."*
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:dika.hidayatnurul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dika.hidayatnurul@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/dika-nurul-hidayat">
-    <img src="https://img.shields.io/badge/LinkedIn-Dika_Nurul_Hidayat-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://dikanurul.space">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dikanrulhdyt/Dikanrulhdyt/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Fun Fact
-> 💡 Beyond coding, I love exploring tech trends and joining hackathons. I believe the best way to grow as a developer is to **build, fail, iterate, and share!** 🚀
+🌱 Currently Levelling Up
+✅ Automated testing for APIs (unit and feature tests)
+📘 API documentation with OpenAPI / Swagger
+🐳 Docker basics and deploying a small app end to end
+🔐 Security fundamentals: OWASP Top 10, token handling, rate limiting
+🧱 System design: caching, queues, and scaling basics
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dikanrulhdyt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikanrulhdyt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p>
+🔥 Streak Stats
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Dikanrulhdyt&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
+🎯 Current Goals
+🚀 Grow into a professional Backend / Full-Stack Developer
+📈 Master System Design & Scalability
+💼 Take on freelance projects to learn from real needs
+🌐 Build Impactful Projects
+📫 Connect With Me
+<p> <a href="mailto:nhidayatdika01@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://linkedin.com/in/dikanurulhidayat"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/> </a> <a href="https://dikanurul.space"> <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" alt="Portfolio"/> </a> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Dikanrulhdyt/Dikanrulhdyt/output/github-contribution-grid-snake.svg" alt="Contribution snake" /> </p>
+⚡ Fun Facts
+💡 I love building systems, optimizing workflows, and turning ideas into real applications 🚀
+🧩 I like wearing both hats: analysing requirements (ERD, DFD) and then building them
+📸 Outside code, I enjoy photography and multimedia
+🔍 My favourite kind of bug is the one that reproduces on the first try
+<p align="center"> <i>If you're hiring or just want to talk about backend, APIs, or system design, feel free to reach out. 🚀</i> </p>
